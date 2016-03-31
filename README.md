@@ -1,2 +1,0 @@
-# iTplat
-pansky
